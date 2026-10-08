@@ -1,6 +1,5 @@
 # Debricked Demo Repository
 
-
 This is an intentionally vulnerable demo repository by [Debricked](https://debricked.com) that showcases common obstacles and risks related to open source dependencies. It demonstrates how our tool helps you analyze, detect, manage and remediate open source risks.
 
 ## Getting Started
